@@ -2,7 +2,7 @@
 
 # Introduction
 
-## Background
+## Capstone Background
 The HR department at Salifort Motors is dedicated to enhancing employee satisfaction and retention within the company. They are particularly focused on understanding the factors that are likely to cause an employee to leave. By accurately predicting employee attrition, the company can identify and address the underlying issues contributing to turnover. Improving employee retention will not only reduce the costs associated with recruiting, interviewing, and training new employees but also foster a more stable and motivated workforce. Ultimately, this proactive approach will significantly benefit Salifort Motors.
 
 ## Explore
